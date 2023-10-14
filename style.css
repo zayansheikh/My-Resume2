@@ -1,1 +1,13 @@
+header{
+    background-color: aqua;
+}
+nav{
+    display: flex;
+}
+nav .logo{
+    background-color: blue;
+}
+nav .navbar{
+    background-color: red;
+}
 
